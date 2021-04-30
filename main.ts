@@ -1,3 +1,4 @@
+let mySprite: Sprite = null
 let Marvel = sprites.create(img`
     . . . . . . . . . . . . . . . . 
     . . . . . . . . . . . . . . . . 
@@ -16,3 +17,4 @@ let Marvel = sprites.create(img`
     . . . . . . . . . . . . . . . . 
     . . . . . . . . . . . . . . . . 
     `, SpriteKind.Player)
+mySprite.setVelocity(50, 50)
