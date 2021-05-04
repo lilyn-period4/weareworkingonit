@@ -6,10 +6,9 @@ controller.A.onEvent(ControllerButtonEvent.Pressed, function () {
 })
 sprites.onOverlap(SpriteKind.Player, SpriteKind.Enemy, function (sprite, otherSprite) {
     game.over(false)
+    game.reset()
 })
-let Kate_1: Sprite = null
-Kate_1.setStayInScreen(true)
-Kate_1 = sprites.create(img`
+let Kate_1 = sprites.create(img`
     . . . . . . f f f f 4 4 f . . . 
     . . . . f f b f 5 4 5 5 4 f . . 
     . . . f b 3 3 e 4 5 5 5 5 f . . 
@@ -53,7 +52,7 @@ let myEnemy = sprites.create(img`
     ........................
     ........................
     `, SpriteKind.Enemy)
+Kate_1.setStayInScreen(true)
 controller.moveSprite(Kate_1)
 myEnemy.follow(Kate_1)
 controller.moveSprite(Kate_1)
-music.playMelody("E F E G F D B A ", 120)
