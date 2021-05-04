@@ -15,4 +15,4 @@
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
-`</field><data>{"commentRefs":[],"fieldData":{"img":"xj4H+D?`4tf)2mSPQ6,c"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="z={wxm`O~[b}vDqcQ(4@"><field name="MEMBER">Player</field></shadow></value></block></value></block></statement></block></xml>
+`</field><data>{"commentRefs":[],"fieldData":{"img":"xj4H+D?`4tf)2mSPQ6,c"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="z={wxm`O~[b}vDqcQ(4@"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="tilemap_editor" id=".JT/j]ByguoSC+Z3xYK7"><field name="tilemap">tilemap`level1`</field><data>{"commentRefs":[],"fieldData":{"tilemap":"level1"}}</data></block></next></block></statement></block></xml>
