@@ -34,3 +34,4 @@ let Test = sprites.create(img`
     . . . . . . . . . . . . . . . . 
     . . . . . . . . . . . . . . . . 
     `, SpriteKind.Player)
+scene.setBackgroundImage(assets.image`road`)

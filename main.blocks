@@ -32,4 +32,4 @@
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
-`</field><data>{"commentRefs":[],"fieldData":{"img":"lh@tauCy64r}lpmC#:cr"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id=")~~PyLxSsr(pvQ`hB%I("><field name="MEMBER">Player</field></shadow></value></block></value></block></next></block></statement></block></xml>
+`</field><data>{"commentRefs":[],"fieldData":{"img":"lh@tauCy64r}lpmC#:cr"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id=")~~PyLxSsr(pvQ`hB%I("><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="gamesetbackgroundimage" id="T{wy0gC%$m!-WECO3eu$"><value name="img"><shadow type="background_image_picker" id="EfIY[U=)/ZBHPMU;`?K."><field name="img">assets.image`road`</field><data>{"commentRefs":[],"fieldData":{"img":"EfIY[U=)/ZBHPMU;`?K."}}</data></shadow></value></block></next></block></next></block></statement></block></xml>
